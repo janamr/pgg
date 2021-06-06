@@ -13,10 +13,21 @@ Tags: light, dark, two-columns, right-sidebar, responsive-layout, accessibility-
 Text Domain: storefront-child
 */
 
+
 .site-branding h1 a {
   color: red;
 }
 
 .storefront-product-section {
+  display: none;
+}
+
+.storefront-secondary-navigation.woocommerce-active .site-header .secondary-navigation {
+  width: 44.826087%;
+  float: right;
+  margin-right: 0%;
+}
+
+.site-search {
   display: none;
 }
