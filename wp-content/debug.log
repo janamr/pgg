@@ -42,3 +42,47 @@
 [05-Jun-2021 21:50:14 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/janamr/Documents/MAMP/pgg2021/wp-includes/wp-db.php on line 1653
 [05-Jun-2021 21:52:15 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/janamr/Documents/MAMP/pgg2021/wp-includes/wp-db.php on line 1653
 [06-Jun-2021 01:20:11 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/janamr/Documents/MAMP/pgg2021/wp-includes/wp-db.php on line 1653
+[13-Jun-2021 20:53:05 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Users/janamr/Documents/MAMP/pgg2021/wp-content/themes/perfect-golf-grip/functions.php on line 4
+[13-Jun-2021 20:53:13 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Users/janamr/Documents/MAMP/pgg2021/wp-content/themes/perfect-golf-grip/functions.php on line 4
+[13-Jun-2021 20:53:18 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Users/janamr/Documents/MAMP/pgg2021/wp-content/themes/perfect-golf-grip/functions.php on line 4
+[13-Jun-2021 21:00:17 UTC] Sync process for Gutenberg Blocks has started.
+[13-Jun-2021 21:00:17 UTC] CATEGORY:Importing categories..
+[13-Jun-2021 21:00:17 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[13-Jun-2021 21:00:17 UTC] CATEGORY:Completed category import.
+[13-Jun-2021 21:00:17 UTC] BLOCK: Getting Total Blocks
+[13-Jun-2021 21:00:17 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg
+[13-Jun-2021 21:00:17 UTC] BLOCK: Requests count 2
+[13-Jun-2021 21:00:17 UTC] BLOCK: Importing request 1 ..
+[13-Jun-2021 21:00:17 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1
+[13-Jun-2021 21:00:17 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[13-Jun-2021 21:00:17 UTC] BLOCK: Completed request 1
+[13-Jun-2021 21:00:17 UTC] BLOCK: Importing request 2 ..
+[13-Jun-2021 21:00:17 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2
+[13-Jun-2021 21:00:17 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[13-Jun-2021 21:00:17 UTC] BLOCK: Completed request 2
+[13-Jun-2021 21:00:17 UTC] SITE: Getting Total Sites
+[13-Jun-2021 21:00:17 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[13-Jun-2021 21:00:18 UTC] SITE: Request count 1
+[13-Jun-2021 21:00:18 UTC] SITE: Importing request 1 ..
+[13-Jun-2021 21:00:18 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[13-Jun-2021 21:00:18 UTC] SITE: Storing in option ast-block-templates-sites-1
+[13-Jun-2021 21:00:18 UTC] SITE: Completed request 1
+[13-Jun-2021 21:00:18 UTC] Sync process for Gutenberg Blocks is done.
+[13-Jun-2021 21:48:09 UTC] Source - https://websitedemos.net/wp-content/uploads/2021/05/new-quote.png
+[13-Jun-2021 21:48:09 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-content/uploads/2021/05/new-quote.png
+[13-Jun-2021 21:48:09 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-content\/uploads\/2021\/05\/new-quote.png","id":0}
+[13-Jun-2021 21:48:09 UTC] new-quote.png
+[13-Jun-2021 21:48:09 UTC] {"file":"\/Users\/janamr\/Documents\/MAMP\/pgg2021\/wp-content\/uploads\/2021\/06\/new-quote.png","url":"http:\/\/localhost:8888\/pgg2021\/wp-content\/uploads\/2021\/06\/new-quote.png","type":"image\/png","error":false}
+[13-Jun-2021 21:48:09 UTC] {"post_title":"new-quote.png","guid":"http:\/\/localhost:8888\/pgg2021\/wp-content\/uploads\/2021\/06\/new-quote.png"}
+[13-Jun-2021 21:48:09 UTC] BATCH - SUCCESS Image {Imported} - http://localhost:8888/pgg2021/wp-content/uploads/2021/06/new-quote.png
+[13-Jun-2021 21:48:09 UTC] Source - https://websitedemos.net/wp-content/uploads/2021/05/testimonial-4.jpg
+[13-Jun-2021 21:48:09 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-content/uploads/2021/05/testimonial-4.jpg
+[13-Jun-2021 21:48:09 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-content\/uploads\/2021\/05\/testimonial-4.jpg","id":0}
+[13-Jun-2021 21:48:10 UTC] testimonial-4.jpg
+[13-Jun-2021 21:48:10 UTC] {"file":"\/Users\/janamr\/Documents\/MAMP\/pgg2021\/wp-content\/uploads\/2021\/06\/testimonial-4.jpg","url":"http:\/\/localhost:8888\/pgg2021\/wp-content\/uploads\/2021\/06\/testimonial-4.jpg","type":"image\/jpeg","error":false}
+[13-Jun-2021 21:48:10 UTC] {"post_title":"testimonial-4.jpg","guid":"http:\/\/localhost:8888\/pgg2021\/wp-content\/uploads\/2021\/06\/testimonial-4.jpg"}
+[13-Jun-2021 21:48:10 UTC] BATCH - SUCCESS Image {Imported} - http://localhost:8888/pgg2021/wp-content/uploads/2021/06/testimonial-4.jpg
+[13-Jun-2021 23:29:01 UTC] Source - https://websitedemos.net/wp-content/uploads/2021/05/new-quote.png
+[13-Jun-2021 23:29:01 UTC] Log - {"id":"1467","url":"http:\/\/localhost:8888\/pgg2021\/wp-content\/uploads\/2021\/06\/new-quote.png"}
+[13-Jun-2021 23:29:01 UTC] Source - https://websitedemos.net/wp-content/uploads/2021/05/testimonial-4.jpg
+[13-Jun-2021 23:29:01 UTC] Log - {"id":"1468","url":"http:\/\/localhost:8888\/pgg2021\/wp-content\/uploads\/2021\/06\/testimonial-4.jpg"}

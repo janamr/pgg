@@ -30,8 +30,16 @@ Text Domain: storefront-child
   margin-right: 0%;
 }
 
-
 .site-search {
   display: none;
 }
 
+.entry-title {
+  display: none;
+}
+
+.pt-cv-wrapper .btn-success {
+  color: #e0e0e0;
+  background-color: #cc1818bf;
+  border-color: #2c2d3354;
+}
